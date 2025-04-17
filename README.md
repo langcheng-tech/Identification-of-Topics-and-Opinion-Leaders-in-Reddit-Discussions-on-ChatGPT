@@ -1,3 +1,9 @@
 # Identification-of-Topics-and-Opinion-Leaders-in-Reddit-Discussions-on-ChatGPT
-The data included 52416 serial_number, comment_body, comment_id, and comment_parent_id, in datasets. 
+Key topics were evaluated and opinion leaders were identified based on a huge dataset of 52,416 comments. The research understands the primary subjects being addressed and the patterns of influence guiding these discussions were the two major goals of the research. This research examined conversations regarding ChatGPT on Reddit. The creation of a directed network graph was the method's main objective. This graph employed connections (parent-child relationships) and comments' unique IDs to show which comments replied to which comments. Each point in the network stands for a comment and the person who made it. The lines between the points show the order of the replies. This helped the researcher see how ideas and information moved in the conversation. To give a full picture, the researcher used two methods. One was impact analysis with PageRank. The other was topic analysis with LSA. This helped find the main topics and the users who led the talk. These results give useful information about what people talked about and how they took part in the ChatGPT group on Reddit.
 <img width="1279" alt="grp" src="https://github.com/user-attachments/assets/2f17882a-4a3c-4c9f-ac13-bf9c03fce989" />
+
+![Latent_Semantic_Topic_for_Top_5_User__10mias6](https://github.com/user-attachments/assets/bb83d148-649b-4cdb-bada-57191f39a2ae)
+![Latent_Semantic_Topic_for_Top_4_User__10gzw93](https://github.com/user-attachments/assets/369bd4d4-65b1-4764-ae9a-8fa2992bb1e4)
+![Latent_Semantic_Topic_for_Top_3_User__10heg9p](https://github.com/user-attachments/assets/dea60781-0566-4391-a59c-2ad2497b914b)
+![Latent_Semantic_Topic_for_Top_2_User__107vs7i](https://github.com/user-attachments/assets/5bb017d8-f2f1-4554-bc9a-6fe0cf8ba922)
+![Latent_Semantic_Topic_for_Top_1_User__107mr00](https://github.com/user-attachments/assets/bbeba9cb-b140-4398-901a-d5f84c3b5b0f)
